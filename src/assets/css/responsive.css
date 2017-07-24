@@ -1,0 +1,1706 @@
+
+
+
+@media screen and (min-width: 1450px) {
+/*   .swiper-container-we-do:before {
+        width: 17.5%;
+    }
+
+    .swiper-container-we-do:after {
+        width: 17.5%;
+    }*/
+
+    .item-main img {
+        
+        padding-left: 297px;
+    }
+
+    .slide-item1 img {
+        width: 70%;
+    }
+    .slide-item2 img {
+        width: 60.5%;
+    }
+    .slide-item3 img {
+        width: 49.5%;
+    }
+}
+
+
+
+@media screen and (max-width: 1250px) {
+
+ 
+
+    .slide-content.s-right h2 {
+        font-size: 40px;
+    }
+
+    .slide-content.s-left h2 {
+        font-size: 40px;
+    }
+
+    .nav>li>a {
+        padding: 45px 16px;
+    }
+
+    .item-main {
+        height: 800px;
+    }
+
+    .item-main-content-text h3 {
+        font-size: 23px;
+    }
+
+    .slide-carousel-text p {
+        padding-right: 50px;
+    }
+
+    /*  shop  */
+
+    .fp-info h4 {
+        font-size: 15px;
+    }
+
+    .product-price {
+        font-size: 12px;
+        padding-right: 9px;
+    }
+
+    .product-price span {
+        font-size: 12px;
+        padding-right: 2px;
+    }
+
+    .rating {
+        padding-left: 5px;
+    }
+
+    .rating .fa-stack {
+        font-size: 13px;
+    }
+
+}
+
+
+
+@media screen and (min-width:768px){
+    .nav>li:hover > ul.dropdown-menu {
+        top: 100%;
+        height: inherit;
+        opacity: 1;
+    }
+
+   /* ul.nav>li>ul>li.dropdown:hover > ul.dropdown-menu {
+        display: block;
+        top: 100%;
+    }*/
+
+}
+
+
+
+@media screen and (max-width: 1030px) {
+    .social-media-list {
+        display: none;
+    }
+
+    .fixed-top .shopping-cart-icon {
+        display: none;
+    }
+
+    .nav>li>a {
+        padding: 45px 12px;
+    }
+
+    .search-field input {
+        padding: 30px 20px 24px 100px;
+    }
+
+
+    .item-main {
+        height: 700px;
+    }
+
+    .slide-item2 .item-main-content {
+        margin-top: -120px;
+    }
+
+
+    .slide-item1 .slide-content.s-left h2 {
+        font-size: 30px;
+    }
+
+    .slide-item1 .slide-content.s-right h2 {
+        font-size: 30px;
+    }
+
+    .slide-item3 .item-main-content-text h2 {
+        font-size: 30px;
+    }
+
+     .slide-item3 .item-main-content-text h3 {
+        font-size: 20px;
+    }
+
+    .slide-item3 .item-main-content-text p {
+        font-size: 15px;
+    }
+
+    .slide-carousel-text h2 {
+        font-size: 30px;
+    }
+
+    .slide-carousel-text h3 {
+        font-size: 20px;
+    }
+
+    .slide-carousel-text p {
+        font-size: 15px;
+    }
+    
+   
+
+    /*  home 2  */
+    .v2 #slider-section {
+        height: 650px;
+    }
+
+     .slider-2 .carousel .item {
+        height: 650px;
+    }
+     .slider-2 {
+        height: 550px;
+     }
+
+    .slider-2 .slide-image img {
+        width: 100%;
+    }
+
+
+    .slider-2 .slide-carousel-content .slide-title {
+        font-size: 30px;
+        line-height: 50px;
+        padding: 0 15px;
+    }
+
+    .slider-2 .slide-carousel-content .slide-desc {
+        font-size: 20px;
+        line-height: 48px;
+        padding: 0 19px;
+    }
+
+    .slider-2 .slide-carousel-content .custom-btn.slide-link {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+
+
+    .newsletter-box .subscribe-form .email {
+        width: 55%;
+    }
+
+
+    /*------------------------------- v2---------------------------------*/
+    .do-box {
+        max-width: 600px;
+    }
+}
+
+
+@media screen and (max-width: 990px) {
+    /* menu  */
+
+    .nav>li>a {
+        font-size: 13px;
+        padding: 38px 15px;
+    }
+
+    .fixed-top .navbar-nav li a {
+        padding: 25px 13px;
+    }
+
+    #header .fixed-top .logo {
+        padding: 21px 0;
+    }
+
+    .shopping-cart-icon {
+        display: none;
+    }
+   
+
+    /* carousel */
+     .item-main {
+        height: 650px;
+    }
+
+
+    .slide-item3 .item-main-content {
+        margin-top: -160px;
+    }
+
+    .slide-item3 .item-main-content-text h2 {
+        font-size: 23px;
+        line-height: 45px;
+        margin-bottom: 15px;
+    }
+
+    .slide-item1 .slide-content.s-left h2 {
+        font-size: 22px;
+    }
+
+     .slide-item1 .slide-content.s-right h2 {
+        font-size: 22px;
+    }
+
+    /* we do */
+    .swiper-container-we-do .swiper-slide h3 {
+        font-size: 16px;
+    }
+    
+
+    /*  trainer */
+    .image-box {
+        height: auto;
+    }
+
+    .image-des h4 a {
+        font-size: 16px;
+    }
+
+    .image-des p {
+        font-size: 13px;
+    }
+
+    .social-media .social-icon {
+        padding: 6px 10px;
+    }
+
+    .social-media .social-icon i:after {
+        bottom: -7px;
+    }
+
+
+    /*  why choose yoga  */
+
+    .choose-main-item-img{
+        width: 100%;
+        background-position: center center;
+    }
+
+    .choose-main-item-des{
+        position: static;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+
+    .choose-main-item-des .choose-box {
+        margin-left: 110px;
+    }
+
+
+
+    /* classes */
+     #classes .classes-main {
+        padding-top: 100px;
+        padding-bottom: 30px;
+    }
+
+    .classes-main:before {
+        content:"";
+        position: absolute;
+        background: transparent;
+    }
+
+    .classes-main:after {
+        content:"";
+        position: absolute;
+        background: transparent;
+    }
+
+    #classes:before {
+        content:"";
+        position: absolute;
+        background: transparent;
+    }
+
+    #classes:after {
+        content:"";
+        position: absolute;
+        background: transparent;
+    }
+
+    .class-right.section-title {
+        padding-top: 100px;
+        padding-left: 0;
+    }
+
+    .class-right.section-title:after {
+        left: 0px;
+    }
+
+    ul.routine-box {
+        padding-left: 0px;
+    }
+
+    #classes .classes-main {
+        background-image: none;
+    }
+
+    .counter-area {
+        padding: 30px 0;
+    }
+
+    .counter-item {
+        padding: 25px 0;
+    }
+
+    /* blog post */
+    .image-des .image-box-title a, .image-des h4 a {
+        font-size: 14px;
+    }
+
+    .post-info span {
+        margin-right: 3px;
+        padding-right: 3px;
+    }
+
+    .post-info {
+        font-size: 10px;
+        margin-top: 15px;
+    }
+
+    #blog-post .image-des > p {
+        padding-bottom: 22px;
+        font-size: 12px;
+    }
+
+    #blog-post .image-des .custom-btn {
+        font-size: 11px;
+    }
+
+
+
+    /*------------------------------- v2---------------------------------*/
+    .do-box {
+        max-width: 770px;
+    }
+
+    .do-main{
+        height: 1200px;
+    }
+
+    .do-image {
+        position: absolute;
+        top: 48%;
+        right: 15%;
+    }
+
+    #what-we-do.v2 .section-padding {
+        padding-bottom: 0px;
+    }
+
+    /*  pricing table  */
+
+    .price-top .price {
+        padding-left: 67px;
+    }
+
+    .price-top .price > .amount {
+        font-size: 60px;
+    }
+
+    .price-details li {
+        font-size: 14px;
+        line-height: 40px;
+    }
+
+    .price-btn {
+        padding: 8px 25px;
+        font-size: 13px;
+    }
+
+    /* --------------------- About page  ----------------------*/
+    .about-content {
+        padding-top: 50px;
+    }
+
+    .counter-area {
+        position: static;
+        padding-bottom: 30px;
+    }
+
+    .about #pro-trainer {
+        margin-bottom: 0;
+    }
+
+
+    /*----------------- class grid  -----------------------*/
+    .filter-class h2 {
+        text-align: center;
+    }
+    .filter-system {
+        text-align: center;
+        margin-top: 30px;
+        float: none;
+    }
+
+
+    /*----------------------- contact page -----------------------*/
+    #contact-page .sidebar {
+        padding-top: 50px;
+    }
+
+    #contact-page .comment-area {
+        padding-left: 20px;
+    }
+
+
+    /*----------------- shop -----------------------------*/
+
+    .product-details {
+        /*padding-top: 60px;*/
+    }
+
+    .fp-info h4 {
+        font-size: 16px;
+    }
+
+
+    /*------------------- trainer --------------------*/
+    .portfolio-content {
+        padding-left: 0px;
+        padding-top: 60px;
+    }
+
+    .trainer-portfolio .col-md-8 {
+        padding-left: 0px;
+    }
+
+}
+
+
+@media screen and (max-width: 767px) {
+    .navbar {
+        display: none;
+    }
+    .mobile-menu {
+        display: block;
+        visibility: visible;
+    }
+
+    .mobile-menu  .nav>li>a {
+        background-color: #fff;
+        padding: 15px 30px;
+        border-bottom: 1px solid #ededed;
+        text-align: left;
+        -webkit-transition: all 0.15s ease-in-out;
+           -mox-transition: all 0.15s ease-in-out;
+             -o-transition: all 0.15s ease-in-out;
+            -ms-transition: all 0.15s ease-in-out;
+                transition: all 0.15s ease-in-out;
+    }
+
+    .mobile-menu .navbar-nav {
+        margin: 0;
+        background: #fff;
+    }
+
+    .mobile-menu .navbar-collapse {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .mobile-menu  .nav>.dropdown .dropdown-menu {
+        width: 95%;
+        margin-left: 17px;
+    }
+    
+    .mobile-menu .search-icon:after {
+        top: 20px;;
+        font-size: 18px;
+    }
+
+    .mobile-menu .search-field input {
+        padding: 8px 20px 8px 100px;
+    }
+
+    .mobile-menu  .navbar-toggle i {
+        color: #43aea8;
+        font-size: 18px;
+    }
+
+    .nav>.dropdown .dropdown-menu:after {
+        display: none;
+    }
+
+    li.dropdown>a:before {
+        right: 30px;
+    }
+
+    
+    /* slider */
+    .item-main {
+        height: 500px;
+    }
+
+
+   .slide-item1 .slide-content.s-left h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .slide-item1 .slide-content.s-right h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .slide-item3 .item-main-content-text h2 {
+        font-size: 20px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+
+     .slide-item3 .item-main-content-text h3 {
+        font-size: 18px;
+        line-height: 25px;
+        padding-right: 30px;
+    }
+
+    .slide-item3 .item-main-content-text p {
+        font-size: 13px;
+        line-height: 20px;
+        display: none;
+    }
+
+    .slide-carousel-text h2 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+
+    .slide-carousel-text h3 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 30px;
+    }
+
+    .slide-carousel-text p {
+        font-size: 13px;
+        display: none;
+    }
+    
+    .slide-item2 .item-main-content {
+        margin-top: -95px;
+    }
+
+    .slide-item3 .item-main-content {
+        margin-top: -95px;
+    }
+
+    .carousel-control1 {
+        font-size: 70px;
+    }
+
+    .slide-item2 img, .slide-item3 img {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+
+     /* we do */
+
+    .swiper-container-horizontal>.swiper-scrollbar {
+        height: 12px;
+    }
+
+    .swiper-scrollbar-drag {
+        height: 8px;
+        top: 2px;
+    }
+
+     /* trainers */
+     .image-des h4 a {
+        font-size: 20px;
+    }
+
+    .image-des p {
+        font-size: 15px;
+    }
+
+    .social-media .social-icon {
+        padding: 14px 19px;
+    }
+
+    .social-media .social-icon i:after {
+        bottom: -16px;
+    }
+
+    .image-box {
+        height: auto;
+        width: 75%;
+        margin: 100px auto 0 auto;
+    }  
+
+    .section-title {
+        font-size: 36px;
+        line-height: 36px;
+        text-align: center;
+    }
+
+    .section-title:after {
+        left: 50%;
+        margin-left: -40px;
+    }
+
+
+    /*  why choose yoga  */
+
+    .choose-main-item-img {
+        height: 0;
+        background-image: none;
+    }
+
+    .class-right.section-title:after {
+        left: 50%;
+        margin-left: -42px;
+    }
+
+
+
+    /* blog post */
+    .image-des .image-box-title a, .image-des h4 a {
+        font-size: 20px;
+    }
+
+    .post-info span {
+        margin-right: 3px;
+        padding-right: 3px;
+    }
+
+    .post-info {
+        font-size: 14px;
+        margin-top: 25px;
+    }
+
+    #blog-post .image-des > p {
+        padding-bottom: 22px;
+        font-size: 16px;
+    }
+
+    #blog-post .image-des .custom-btn {
+        font-size: 14px;
+    }
+   
+
+    /*  footer  */
+    .widget{
+        padding: 0px 30px 50px 30px;
+    }
+
+
+    /* home 2*/
+    .slider-2 .slide-image img {
+        width: 100%;
+    }
+
+    #features-container {
+        padding-top: 50px;
+    }
+
+    .featuresFilter {
+        text-align: center;
+    }
+
+
+    /*  pricing table  */
+
+    .price-top .price {
+        padding-left: 97px;
+    }
+
+    .price-top .price > .amount {
+        font-size: 68px;
+    }
+
+    .price-details li {
+        font-size: 15px;
+        line-height: 48px;
+    }
+
+    .price-btn {
+        padding: 8px 25px;
+        font-size: 15px;
+    }
+
+    /*--------------------- about page -------------------------*/
+    .site-page-header .site-title h2 {
+        font-size: 36px;
+        padding: 20px 0;
+    }
+
+    .site-page-header {
+        height: 80px;
+    }
+
+    .site-page-header .site-title:after {
+        height: 98px;
+    }
+
+    .site-page-header .breadcrumb ul li a {
+        font-size: 14px;
+        padding: 30px 15px;
+    }
+
+    .about-content h2 {
+        font-size: 30px;
+    }
+
+    .about-content p {
+        font-size: 15px;
+    }
+
+
+    /*--------------------- trainer portfolio -------------------*/
+    section.trainer-portfolio {
+        padding: 0 30px;
+    }
+
+    .portfolio-content {
+        padding-left: 17px;
+    }
+
+    .portfolio-content p {
+        font-size: 15px;
+    }
+
+
+
+    /* --------------------- class detail  ----------------------*/
+    .detail-class h2, .detail-class .post-info, .detail-class p, .detail-class .class-vedio {
+        padding-left: 20px;
+    }
+
+    .detail-class h2 {
+        font-size: 26px;
+    }
+
+    .author-details>p {
+        padding-left: 0;
+    }
+
+    .detail-class {
+        text-align: center;
+    }
+
+    .detail-class .author-details{
+        text-align: left;
+    }
+
+    .comment-area h3:before {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+
+    /*----------------------- contact page --------------------------*/
+    #contact-page .comment-area h3 {
+        text-align: center;
+    }
+
+
+    /*--------------------- error ------------------------------*/
+    .error {
+        width: 450px;
+    }
+
+    .error-inside {
+        width: 427px;
+    }
+
+    .inside-content h1 {
+        font-size: 100px;
+    }
+
+    .inside-content h3 {
+        font-size: 15px;
+    }
+
+    .inside-content p {
+        font-size: 13px;
+    }
+
+    .error-inside .inside-content .custom-btn {
+        font-size: 12px;
+    }
+
+    .inside-content {
+        padding-top: 45px;
+    }
+
+
+
+    /* ---------------------   blog page --------------------  */
+
+    .leave-comment h3,
+    .comment-area h3 {
+        text-align: center;
+    }
+
+    .widget h4 {
+        text-align: center;
+    }
+
+    .widget h4:after {
+        left: 50%;
+        margin-left: -30px;
+    }
+
+
+    /*-----------------  pricing table --------------------------*/
+    .item-price {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    /* ------------------ registration page  -------------------*/
+    .registration.comment-area {
+        padding: 0 5%;
+    }
+
+    .registration-img img {
+        left: 10px;
+    }
+
+
+    /*-------------------- shop --------------------------------*/
+
+    .f-product-box {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .fp-info {
+        padding-top: 10px;
+    }
+
+    .fp-info h4 {
+        font-size: 12px;
+    }
+
+    .price-rating {
+        padding-top: 0px;
+    }
+
+    .product-price {
+        font-size: 11px;
+        padding-right: 5px;
+    }
+
+    .product-price span {
+        font-size: 12px;
+        padding-right: 2px;
+    }
+
+    .rating {
+        padding-left: 5px;
+    }
+
+    .rating .fa-stack {
+        font-size: 11px;
+    }
+
+    #shopping-cart .cart-title,
+    .cart-product>span {
+        text-align: center;
+    }
+
+    #shopping-cart .cart-title:after {
+        left: 50%;
+        margin-left: -28px;
+    }
+
+    #product-detail-info {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+   #product-review {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .class-schedule-mobile {
+        display: block;
+    }
+
+    .class-schedule-table {
+        display: none;
+    }
+
+    .class-schedule-top {
+        display: none;
+    }
+
+    #class-schedule {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 640px) {
+
+    /* menu */
+    .search-field input {
+        font-size: 24px;
+    }
+ 
+    /*   slider   */
+     .item-main {
+        height: 400px;
+    }
+
+
+    .slide-item1 .slide-content.s-right h2 {
+        font-size: 13px;
+        line-height: 24px;
+        padding: 10px 15px;
+    }
+
+    .slide-item1 .slide-content.s-left h2 {
+        font-size: 13px;
+        line-height: 24px;
+        padding: 10px 15px;
+    }
+
+     .slide-carousel-text h2 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .slide-carousel-text h3 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .slide-carousel-text p {
+        font-size: 12px;
+    }
+    
+    .slide-item3 .item-main-content-text h2 {
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 7px;
+    }
+
+     .slide-item3 .item-main-content-text h3 {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .slide-item3 .item-main-content-text p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .slide-item3 .item-main-content {
+        margin-top: -80px;
+    }
+
+    .slide-item2 .item-main-content {
+        margin-top: -60px;
+    }
+
+      /* we do */
+
+    /* trainers */
+    .image-box {
+        width: 75%;
+        margin: 100px auto 0 auto;
+    }  
+
+
+    /*  why choose yoga  */
+    .choose-main-item-img{
+        width: 100%;
+        background-position: center right;
+    }
+
+
+    /*  Quote  */
+
+     #qoute .flex-control-thumbs {
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+
+
+
+    /*  footer   */
+
+    .newsletter-box .subscribe-form .email {
+        width: 50%;
+    }
+
+
+    /*------------------------------- v2---------------------------------*/
+    .slider-2 .slide-image img {
+        width: 100%;
+    }
+
+
+    .v2 #slider-section {
+        height: 437px;
+    }
+
+     .slider-2 .carousel .item {
+        height: 437px;
+    }
+     .slider-2 {
+        height: 370px;
+     }
+
+    .slider-2 .slide-image img {
+        width: 100%;
+    }
+
+
+    .slider-2 .slide-carousel-content .slide-title {
+        font-size: 20px;
+        line-height: 35px;
+        padding: 0 15px;
+    }
+
+    .slider-2 .slide-carousel-content .slide-desc {
+        font-size: 16px;
+        line-height: 35px;
+        padding: 0 15px;
+    }
+
+    .slider-2 .slide-carousel-content .custom-btn.slide-link {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+
+
+    /*-------------------blog page --------------------*/
+    .b2 .image-box {
+        height: auto;
+    }
+
+    .comment-img {
+        width: 15%;
+    } 
+
+    .c-content {
+        width: 85%;
+    }
+
+
+    /*  ----------------------  contact page --------------------*/
+
+    .registration-img {
+        height: 590px;
+    }
+
+    .registration-img img {
+       top: 60px;
+    }
+
+     /*------------------------  shop page  ---------------------*/
+    .pagination-main {
+        display: none;
+    }
+    .pagination-secondary {
+        text-align: center;
+        display: block;
+    }
+
+
+    #product-detail-info .product-zoom {
+        display: none;
+    }
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+
+    .shopping-cart-icon {
+        display: none;
+    }
+
+    .item-main {
+        height: 280px;
+        padding: 20px 0;
+    }
+
+    .carousel-control1 {
+        font-size: 60px;
+    }
+
+    .social-media-list {
+        left: 41%;
+        top: 85px;
+        transform: translateX(-35%);
+    }
+
+    #header .logo {
+        padding-bottom: 50px;
+    }
+
+    .search-field input {
+        padding: 35px 20px 23px 100px;
+    }
+
+    /*   slider   */
+  
+
+    .slide-item1 .slide-content.s-left h2 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .slide-item1 .slide-content.s-right h2 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+     .slide-carousel-text h2 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .slide-carousel-text h3 {
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+    .slide-carousel-text p {
+        font-size: 10px;
+    }
+    
+    .slide-item3 .item-main-content-text h2 {
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 10px;
+    }
+
+     .slide-item3 .item-main-content-text h3 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .slide-item3 .item-main-content-text p {
+        font-size: 10px;
+        line-height: 10px;
+    }
+
+
+    /* trainers */
+    .image-box {
+        height: auto;
+    } 
+
+    .image-des h4 a {
+        font-size: 16px !important;
+    }
+
+    .image-des p {
+        font-size: 13px !important;
+    }
+
+    .social-media .social-icon {
+        padding: 6px 10px;
+    }
+
+    .social-media .social-icon i:after {
+        bottom: -7px;
+    }
+
+    
+    /* why choose yoga  */
+    .choose-main-item-des .choose-box{
+        margin-left: 0px;
+        padding-top: 100px;
+        text-align: center;
+    }
+
+    .choose-main-item-des .choose-box .choose-icon{
+        top: 0;
+        margin-top: 5px;
+        left: 50%;
+        margin-left: -40px;
+    }
+
+    .choose-main-item-des .c-des{
+        text-align: center;
+    }
+
+    .choose-main-item-des{
+        padding-left: 20px;
+        padding-right: 20px;
+        /*padding-top: 210%;*/
+    }
+
+    .choose-main-item-desc-content {
+        width: inherit;
+    }
+
+    .choose-main-item-desc-content > p {
+        text-align: center;
+    }
+
+
+    .section-title span {
+        font-size: 24px;
+    }
+
+
+    /* classes */
+    .class-image-box {
+        max-width: 300px;
+        width: 100%;
+    }
+
+    .class-image-box .class-info {
+        width: 100%;
+        margin-top: 220px;
+    }
+
+    .class-image-box .class-img {
+        top: -15px;
+        right: -15px;
+        width: 100%;
+    }
+
+    .class-middle-img {
+        top: 73%;
+    }
+
+    .routine-box .pull-right {
+        float: right !important;
+    }
+
+
+    .class-image-box .class-title {
+        font-size: 18px;
+    }
+
+    .class-info p {
+        font-size: 14px;
+    }
+
+    .class-image-box .class-info {
+        padding: 0 5px;
+    }
+
+    .post-info {
+        font-size: 10px;
+        margin-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .custom-btn {
+        font-size: 12px;
+    }
+   
+
+    /* Qoute */
+    #qoute {
+        background-color: #f6f6f6;
+    }
+
+    #qoute .slides li > p {
+        font-size: 14px;
+        padding: 30px 30px;
+        line-height: 24px;
+    }
+
+    #qoute .slides li .qouter-name a {
+        font-size: 18px;
+    }
+
+    #qoute .slides li .exertness {
+        font-size: 14px;
+    }
+
+    #qoute .flex-control-thumbs {
+        width: 80%;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+
+
+    /* blog  */
+    #blog-post .section-padding{
+        padding-top: 0px;
+    }
+
+    #blog-post .image-des .custom-btn {
+        font-size: 12px;
+    }
+
+    /*  footer  */
+    .subscribe {
+        padding: 14px 10px;
+        margin-top: 20px;
+        float: none;
+        width: 100%;
+        border: 2px solid #43aea8;
+    }
+
+    .newsletter-box .subscribe-form .email {
+        width: 100%;
+    }
+
+    .newsletter-box h5 {
+        font-size: 18px;
+    }
+
+    .newsletter-box p {
+        font-size: 13px;
+    }
+
+
+    .privecy-policy {
+        padding-top: 80px;
+    }
+
+
+    /*------------------------------- v2---------------------------------*/
+
+    .do-main {
+        height: 1375px;
+    }
+
+    .do-box li {
+        width: 50%;
+    }
+
+    .do-box li:nth-child(1),
+    .do-box li:nth-child(4),
+    .do-box li:nth-child(5){
+        background-color: #f8f8f8;
+    }
+
+    .do-box li:nth-child(2),
+    .do-box li:nth-child(3),
+    .do-box li:nth-child(6){
+        background-color: #dedede;
+    }
+
+
+
+    .do-image{
+        right: 0;
+        top: 53%;
+    }
+
+
+    /* pricing table */
+    .item-price {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+
+
+    /*-------------------- about page -------------------------------*/
+    .about-content h2 {
+    font-size: 30px;
+    }
+
+    .about-content p {
+    font-size: 13px;
+    }
+
+    /*------------------  trainer portfolio -------------------------*/
+    .portfolio-content {
+        text-align: center;
+    }
+
+    .portfolio-content .custom-btn {
+        margin-top: 30px;
+    }
+
+    .pie-item {
+        width: 160px;
+        margin: 0 auto;
+        float: none;
+    }
+
+
+    /*--------------------------  blog page -------------------------*/
+
+    .comment-img {
+        display: none;
+    } 
+
+    .c-content {
+        width: 100%;
+    }
+
+    .prev-post a, .next-post a {
+        font-size: 12px;
+        padding: 4% 2%;
+    }
+
+    .comment-area h3 {
+        text-align: center;
+    }
+
+    .tag-share {
+        text-align: center;
+    }
+
+    .m-tag {
+        display: inline-block;
+    }
+
+    .m-share {
+        display: inline-block;
+        padding-top:  5px;
+    }
+
+    .pull-right,
+    .pull-left {
+        float: none !important;
+    }
+
+    .c-content h4 {
+        font-size: 16px;
+    }
+
+    .c-content span {
+        font-size: 13px;
+    }
+
+    .c-content p {
+        font-size: 13px;
+    }
+
+
+
+    /*  ----------------------  contact page --------------------*/
+
+    .registration-img {
+        height: 480px;
+    }
+
+
+
+
+    /*--------------------- error ------------------------------*/
+    .error {
+        width: 280px;
+    }
+
+    .error-inside {
+        width: 260px;
+    }
+
+    .inside-content h1 {
+        font-size: 70px;
+    }
+
+    .inside-content h3 {
+        font-size: 13px;
+    }
+
+    .inside-content p {
+        font-size: 10px;
+    }
+
+    .error-inside .inside-content .custom-btn {
+        font-size: 10px;
+    }
+
+    .inside-content {
+        padding: 45px 50px;
+    }
+
+
+    /*--------------------- event page ------------------------*/
+    .event .image-des .post-info .time {
+        margin-left: 0px;
+    }
+
+    .event .image-des .post-info span {
+        margin-right: 0px;
+    }
+
+    .event .post-info {
+        font-size: 10px;
+    }
+
+
+    /*-------------------- shop ----------------------------*/
+    .features-product-Gallery .col-xs-6 {
+        width: 100% !important;
+    }
+
+    #feature-product .col-xs-6 {
+        width: 100% !important;
+    }
+
+
+    .fp-info h4 {
+        font-size: 18px;
+    }
+
+    .product-price {
+        font-size: 14px;
+        padding-right: 9px;
+    }
+
+    .product-price span {
+        font-size: 14px;
+        padding-right: 2px;
+    }
+
+    .rating {
+        padding-left: 5px;
+    }
+
+    .rating .fa-stack {
+        font-size: 14px;
+    }
+
+}
+
+
+@media screen and (max-width: 350px) {
+
+    /* slider */
+      .item-main {
+        height: 185px;
+    }
+
+    .slide-item3 .item-main-content {
+        margin-top: -40px;
+    }
+
+    .slide-item2 .item-main-content {
+        margin-top: -15px;
+    }
+
+    .slide-carousel-text h2 {
+        padding-right: 40px;
+    }
+
+    a.carousel-control1.right {
+        margin-top: -30px;
+    }
+
+    a.carousel-control1.left {
+        margin-top: -30px;
+    }
+
+    .slide-carousel-text h3 {
+        display: none;
+    }
+
+    .slide-item3 .item-main-content-text h3 {
+        display: none;
+    }
+
+    .slide-item1 .slide-content.s-right h2 {
+        font-size: 9px;
+        line-height: 24px;
+        padding: 7px 10px;
+    }
+
+    .slide-item1 .slide-content.s-left h2 {
+        font-size: 9px;
+        line-height: 24px;
+        padding: 7px 10px;
+    }
+
+    .footer-top .widget {
+        padding: 0px 0px 50px 0px;
+    }
+
+    /* trainers */
+    .image-box {
+        height: auto;
+        width: 80%;
+    }  
+
+
+
+
+    /*  pricing table  */
+
+    .price-top .price {
+        padding-left: 67px !important;
+    }
+
+    .price-top .price > .amount {
+        font-size: 60px !important;
+    }
+
+    .price-details li {
+        font-size: 14px !important;
+        line-height: 40px !important;
+    }
+
+    .price-btn {
+        padding: 8px 25px !important;
+        font-size: 13px !important;
+    }
+
+
+
+
+    /*------------------------------- v2---------------------------------*/
+
+
+    /* pricing table */
+    .item-price {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+    .do-main {
+        height: 1990px;
+    }
+
+    .do-box {
+        margin-left: 17px;
+    }
+
+    .do-box li {
+        width: 90%;
+    }
+
+
+    .do-box li:nth-child(even){
+        background-color: #f8f8f8;
+    }
+
+    .do-box li:nth-child(odd){
+        background-color: #dedede;
+    }
+
+    .do-image{
+        right: -103px;
+        top: 68%;
+    }
+
+
+
+    /*  ----------------------  contact page --------------------*/
+
+    .registration-img {
+        height: 420px;
+    }
+
+
+}

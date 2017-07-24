@@ -1,0 +1,67 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-flexions:before {
+	content: "\e000";
+}
+.flaticon-gym16:before {
+	content: "\e001";
+}
+.flaticon-hinduism3:before {
+	content: "\e002";
+}
+.flaticon-man271:before {
+	content: "\e003";
+}
+.flaticon-man272:before {
+	content: "\e004";
+}
+.flaticon-man429:before {
+	content: "\e005";
+}
+.flaticon-meditation1:before {
+	content: "\e006";
+}
+.flaticon-person198:before {
+	content: "\e007";
+}
+.flaticon-relax3:before {
+	content: "\e008";
+}
+.flaticon-religion39:before {
+	content: "\e009";
+}
+.flaticon-run6:before {
+	content: "\e00a";
+}
+.flaticon-stretch1:before {
+	content: "\e00b";
+}
+.flaticon-stretching:before {
+	content: "\e00c";
+}
+.flaticon-weightlifter3:before {
+	content: "\e00d";
+}
+.flaticon-yoga11:before {
+	content: "\e00e";
+}
+.flaticon-yoga13:before {
+	content: "\e00f";
+}
+.flaticon-yoga14:before {
+	content: "\e012";
+}
